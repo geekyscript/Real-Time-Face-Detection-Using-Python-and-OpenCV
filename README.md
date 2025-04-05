@@ -4,7 +4,7 @@ Computer vision has made massive leaps in recent years, enabling everyday applic
 
 ---
 
-![Face Detection Example](../images/img3.png)
+![Face Detection Example](img4.png)
 *Example of a face detected via webcam using Haar Cascade.*
 
 ---
